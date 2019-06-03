@@ -84,7 +84,3 @@ INSERT INTO COMMENT (post_id, user_id, body, create_date)
 VALUES (6, 2,
         '"Вчера TOP 1 занял
         CURRENT_TIMESTAMP());
-INSERT INTO COMMENT (post_id, user_id, body, create_date)
-VALUES (6, 3,
-        '"Go PUBG"',
-        CURRENT_TIMESTAMP());
